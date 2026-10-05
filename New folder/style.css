@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.button li{
+    display: inline-block;
+    position: absolute;
+    background-color: bisque;
+    padding: 10px 20px;
+    margin: auto;
+
+
+}
